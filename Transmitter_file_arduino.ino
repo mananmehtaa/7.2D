@@ -1,7 +1,7 @@
 /*
 SIT217 Software Engineering Robotics Project
 Task 7.2D
-File Slave.ino(Receiver)
+File Slave.ino(Transmitter)
 Name : Manan Mehta
 Student ID : 2110994805
 */
